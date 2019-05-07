@@ -1,0 +1,9 @@
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.exe.config
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.exe
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\bin\Debug\Async_and_Await.pdb
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.csprojResolveAssemblyReference.cache
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.Form1.resources
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.Properties.Resources.resources
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.csproj.GenerateResource.Cache
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.exe
+C:\Users\Teedo\Documents\Visual Studio 2015\Projects\Palota\Async_and_Await\Async_and_Await\obj\Debug\Async_and_Await.pdb
